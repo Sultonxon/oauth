@@ -1,0 +1,2 @@
+C:\Users\qudra\OneDrive\Документы\GitHub\oauth\front\obj\Debug\front.esproj.SuggestedBindingRedirects.cache
+C:\Users\qudra\OneDrive\Документы\GitHub\oauth\front\obj\Debug\front.esproj.CoreCompileInputs.cache
